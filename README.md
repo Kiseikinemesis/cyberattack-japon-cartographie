@@ -48,8 +48,8 @@ Les incidents récurrents montrent un ciblage clair de secteurs stratégiques :
 5. 🌐 Lecture géopolitique : tensions et ambitions régionales
 
 🟦 Le Japon, cible technologique stratégique  
-- Conflits larvés avec la Chine sur la suprématie technologique  
-- Alliances militaires renforcées (🇺🇸US, 🇦🇺Australie, 🇮🇳Inde) via le QUAD  
+- Conflits avec la Chine sur la suprématie technologique  
+- Alliances militaires renforcées (US, Australie, Inde) via le QUAD  
 - Hostilité croissante des groupes APT chinois (MirrorFace, APT10)
 
 🟥 Fragilité des infrastructures civiles  
